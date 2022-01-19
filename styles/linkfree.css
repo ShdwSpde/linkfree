@@ -3,11 +3,9 @@
   height: 150px;
   border: 20px;
   width: 50%;
-  padding-left: 40px;
-  padding-right: 40px;
   border-radius: 5px;
   cursor: pointer;
-  font-size: 32px;
+  font-size: 24px;
   font-weight: bold;
   background: -webkit-linear-gradient(left, #60c657, #35aee2);
   background-size: 200% 200%;
@@ -27,6 +25,8 @@
 h1 {
   margin: auto;
   width: 50%;
+  border: 3px solid green;
+  padding: 10px;
   font-size: 48px;
   font-weight: bold;
 }
@@ -34,6 +34,8 @@ h1 {
 h2 {
   margin: auto;
   width: 50%;
+  border: 3px solid green;
+  padding: 10px;
   font-size: 36px;
   font-weight: bold;
 }
