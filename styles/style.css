@@ -13,9 +13,7 @@
 }
 
 img {
-   border-style: outset;
-   border-color: olive;
-   border: 15px;
+   border: 25px solid olive;
    margin: auto;
    padding-left: 40px;
    padding-right: 40px;
