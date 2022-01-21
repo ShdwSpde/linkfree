@@ -8,6 +8,7 @@
   cursor: pointer;
   font-size: 24px;
   font-weight: bold;
+  text-align: center;
   background: -webkit-linear-gradient(left, #60c657, #35aee2);
   background-size: 200% 200%;
   animation: gradient-animation 4s ease infinite;
@@ -27,6 +28,7 @@ h1 {
   margin: auto;
   width: 50%;
   padding: 10px;
+  text-align: center;
   font-size: 48px;
   font-weight: bold;
   text-decoration: underline;
@@ -39,4 +41,5 @@ h2 {
   padding: 10px;
   font-size: 36px;
   font-weight: bold;
+  text-align: center;
 }
