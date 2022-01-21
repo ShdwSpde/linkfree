@@ -27,6 +27,7 @@ img {
 
 body {
   background: purple;
+  border: 5px dotted #60c657;
 }
 
 h1 {
