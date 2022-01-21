@@ -9,6 +9,7 @@
   cursor: pointer;
   font-size: 24px;
   font-weight: bold;
+  text-color: white;
   text-align: center;
   background: -webkit-linear-gradient(left, #60c657, #35aee2);
   animation: gradient-animation 4s ease infinite;
