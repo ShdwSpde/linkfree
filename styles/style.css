@@ -15,9 +15,11 @@
 img {
    border: 10px solid olive;
    border-radius: 50%;
-   horizontal-align: middle;
    width: 200px;
    height: 200px;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
 }
 
 h1 {
