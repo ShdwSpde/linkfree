@@ -15,13 +15,17 @@
 }
 
 img {
-   border: 10px solid olive;
+   border: 10px solid #60c657;
    border-radius: 50%;
    width: 200px;
    height: 200px;
    display: block;
    margin-left: auto;
    margin-right: auto;
+}
+
+body {
+  background: purple;
 }
 
 h1 {
@@ -41,4 +45,6 @@ h2 {
   font-size: 36px;
   font-weight: bold;
   text-align: center;
+  text-color: #60c657;
 }
+
