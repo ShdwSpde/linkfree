@@ -29,6 +29,8 @@ h1 {
   padding: 10px;
   font-size: 48px;
   font-weight: bold;
+  text-decoration: underline;
+  background: gold;
 }
 
 h2 {
