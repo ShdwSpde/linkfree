@@ -13,11 +13,11 @@
 }
 
 img {
-   border: 25px solid olive;
+   border: 10px solid olive;
    border-radius: 50%;
-   vertical-align: middle;
-   width: 50px;
-   height: 50px;
+   horizontal-align: middle;
+   width: 200px;
+   height: 200px;
 }
 
 h1 {
