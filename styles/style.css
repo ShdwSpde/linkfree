@@ -1,3 +1,7 @@
+* {
+margin: 75px;   
+}
+
 .linkfree-button {
   display: block;
   margin-left: auto;
@@ -31,7 +35,6 @@ body {
   background-image: linear-gradient(0deg, #FFDEE9 0%, #B5FFFC 100%);
   border:15px dotted #60c657;
   border-spacing: 10px;
-  margin: 25px;
  }
 
 header {
