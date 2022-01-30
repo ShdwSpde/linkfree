@@ -19,20 +19,23 @@
 img {
    border: 10px dotted #60c657;
    border-radius: 50%;
-  
    width: 200px;
    height: 200px;
    display: block;
    margin-left: auto;
    margin-right: auto;
-   
-}
+   }
 
 body {
-  background: purple;
+  background-color: #FFDEE9;
+  background-image: linear-gradient(0deg, #FFDEE9 0%, #B5FFFC 100%);
   border:15px dotted #60c657;
   border-spacing: 10px;
-  
+  margin: 25px;
+ }
+
+header {
+  background: white; 
 }
 
 h1 {
